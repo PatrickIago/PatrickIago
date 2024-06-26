@@ -1,6 +1,6 @@
 # Patrick Iago dos Santos Mendes
 
-![Developer Coding](https://img.icons8.com/external-flat-lineal-color-flat-icons/64/000000/external-developer-technology-flat-lineal-color-flat-icons.png)
+<img src="https://img.icons8.com/external-flat-lineal-color-flat-icons/64/000000/developer-programming.png" width="20" height="20"/>
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
