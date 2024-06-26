@@ -4,14 +4,12 @@
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unilasalle e tenho complementado minha formação com diversos cursos online. Tenho experiência prática em:
 
-- <i class="devicon-dotnetcore-plain"></i> **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
-- <i class="devicon-microsoftsqlserver-plain"></i> **ORM com Entity Framework & Dapper:** Otimização de interações com bancos de dados.
-- <i class="devicon-csharp-plain"></i> **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
-- <i class="devicon-microsoftsqlserver-plain"></i> **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
+- ![.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg) **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
+- ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) **ORM com Entity Framework & Dapper:** Otimização de interações com bancos de dados.
+- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg) **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
+- ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
 
 ## Certificações e Cursos Complementares
 
