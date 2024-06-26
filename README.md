@@ -1,6 +1,5 @@
 # Patrick Iago dos Santos Mendes
 
-![Developer Image](https://www.fullstacklabs.co/img/developer-banner.c81e59bf.png)
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
