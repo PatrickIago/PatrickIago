@@ -1,6 +1,6 @@
 # Patrick Iago dos Santos Mendes
 
-![Developer Image](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-developer-computer-science-flaticons-lineal-color-flat-icons.png)
+![Developer Icon](https://img.icons8.com/external-flat-lineal-color-flat-icons/64/000000/external-developer-technology-flat-lineal-color-flat-icons.png)
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
@@ -29,3 +29,5 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 - **Telefone:** (51) 98057-8804
 
 ---
+
+Estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor, aplicando meu conhecimento em projetos práticos e dinâmicos. Se você está interessado em colaborar ou tem alguma oportunidade, sinta-se à vontade para entrar em contato.
