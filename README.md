@@ -1,7 +1,5 @@
 # Patrick Iago dos Santos Mendes
 
-<img src="https://img.icons8.com/external-flat-lineal-color-flat-icons/64/000000/developer-programming.png" width="20" height="20"/>
-
 **Desenvolvedor .NET | Desenvolvedor C#**
 
 Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unilasalle e tenho complementado minha formação com diversos cursos online. Tenho experiência prática em:
