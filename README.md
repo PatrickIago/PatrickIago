@@ -6,10 +6,10 @@
 
 Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unilasalle e tenho complementado minha formação com diversos cursos online. Tenho experiência prática em:
 
-- ![.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg) **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
-- ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) **ORM com Entity Framework & Dapper:** Otimização de interações com bancos de dados.
-- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg) **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
-- ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="20" height="20"/> **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> **ORM com Entity Framework & Dapper:** Otimização de interações com bancos de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
 
 ## Certificações e Cursos Complementares
 
