@@ -1,15 +1,15 @@
 # Patrick Iago dos Santos Mendes
 
-![Profile Image](https://via.placeholder.com/150)
+![Developer Image](https://www.fullstacklabs.co/img/developer-banner.c81e59bf.png)
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
 Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unilasalle e tenho complementado minha formação com diversos cursos online. Tenho experiência prática em:
 
-- ![DotNet Icon](https://via.placeholder.com/20) **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
-- ![Database Icon](https://via.placeholder.com/20) **ORM com Entity Framework & Dapper:** Otimização de interações com bancos de dados.
-- ![SOLID Icon](https://via.placeholder.com/20) **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
-- ![SQL Server Icon](https://via.placeholder.com/20) **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
+- **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
+- **ORM com Entity Framework & Dapper:** Otimização de interações com bancos de dados.
+- **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
+- **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
 
 ## Certificações e Cursos Complementares
 
@@ -22,11 +22,9 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 
 ## Contato
 
-![Email Icon](https://via.placeholder.com/20) **Email:** [mendespatrick720@gmail.com](mailto:mendespatrick720@gmail.com)
-
-![LinkedIn Icon](https://via.placeholder.com/20) **LinkedIn:** [Patrick Iago dos Santos Mendes](https://www.linkedin.com/in/patrick-mendes-b5b15b215/)
-
-![Phone Icon](https://via.placeholder.com/20) **Telefone:** (51) 98057-8804
+- **Email:** [mendespatrick720@gmail.com](mailto:mendespatrick720@gmail.com)
+- **LinkedIn:** [Patrick Iago dos Santos Mendes](https://www.linkedin.com/in/patrick-mendes-b5b15b215/)
+- **Telefone:** (51) 98057-8804
 
 ---
 
