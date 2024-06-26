@@ -1,6 +1,6 @@
 # Patrick Iago dos Santos Mendes
 
-![Developer Image](https://cdn-icons-png.flaticon.com/512/1661/1661761.png)
+![Developer Image](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
