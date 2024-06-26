@@ -9,7 +9,9 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="20" height="20"/> **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/efcore/efcore-plain.svg" width="20" height="20"/> **Entity Framework & Dapper:** Otimização de interações com bancos de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Entity Framework & Dapper:** Otimização de interações com bancos de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Domain-Driven Design (DDD):** Aplicação de padrões para manter a lógica de negócios centralizada.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Repository Pattern:** Abstração de acesso a dados para garantir separação de responsabilidades.
 
 ## Certificações e Cursos Complementares
 
