@@ -1,17 +1,17 @@
 # Patrick Iago dos Santos Mendes
 
-![Developer Image](https://img.icons8.com/ios/50/000000/developer.png)
+![Developer Image](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-developer-computer-science-flaticons-lineal-color-flat-icons.png)
 
 **Desenvolvedor .NET | Desenvolvedor C#**
 
 Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unilasalle e tenho complementado minha formação com diversos cursos online. Tenho experiência prática em:
 
-- <img src="https://img.icons8.com/windows/32/000000/dot-net.png"/> **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
-- <img src="https://img.icons8.com/windows/32/000000/c-sharp-logo.png"/> **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
-- <img src="https://img.icons8.com/windows/32/000000/database-restore.png"/> **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
-- <img src="https://img.icons8.com/windows/32/000000/entity-framework.png"/> **Entity Framework & Dapper:** Otimização de interações com bancos de dados.
-- <img src="https://img.icons8.com/windows/32/000000/domain.png"/> **Domain-Driven Design (DDD):** Aplicação de padrões para manter a lógica de negócios centralizada.
-- <img src="https://img.icons8.com/windows/32/000000/repository.png"/> **Repository Pattern:** Abstração de acesso a dados para garantir separação de responsabilidades.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="20" height="20"/> **.NET Core:** Desenvolvimento de aplicações robustas e escaláveis.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Princípios SOLID:** Desenvolvimento de código limpo e de fácil manutenção.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> **SQL Server:** Gerenciamento eficiente e seguro de bancos de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Entity Framework & Dapper:** Otimização de interações com bancos de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Domain-Driven Design (DDD):** Aplicação de padrões para manter a lógica de negócios centralizada.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Repository Pattern:** Abstração de acesso a dados para garantir separação de responsabilidades.
 
 ## Certificações e Cursos Complementares
 
@@ -29,5 +29,3 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 - **Telefone:** (51) 98057-8804
 
 ---
-
-Estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor, aplicando meu conhecimento em projetos práticos e dinâmicos. Se você está interessado em colaborar ou tem alguma oportunidade, sinta-se à vontade para entrar em contato.
