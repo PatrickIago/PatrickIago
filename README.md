@@ -10,16 +10,6 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Entity Framework & Dapper:** Otimização de interações com bancos de dados.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Domain-Driven Design (DDD):** Aplicação de padrões para manter a lógica de negócios centralizada.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> **Repository Pattern:** Abstração de acesso a dados para garantir separação de responsabilidades.
-
-## Certificações e Cursos Complementares
-
-- **Programação Orientada a Objetos** - Udemy
-- **Lógica de Programação** - Udemy
-- **Design Patterns Criacionais (GoF)** - Udemy
-- **SOLID C#** - Udemy
-- **Dapper - Micro-ORM** - Udemy
-- **SQL Server** - Udemy
-
 ## Contato
 
 - **Email:** [mendespatrick720@gmail.com](mailto:mendespatrick720@gmail.com)
