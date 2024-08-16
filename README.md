@@ -29,7 +29,9 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 
 Contato
 Email: mendespatrick720@gmail.com
+
 LinkedIn: Patrick Iago dos Santos Mendes
+
 Telefone: (51) 98057-8804
 
 
