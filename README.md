@@ -23,10 +23,14 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20" height="20"/> Docker: Containerização de aplicações para ambientes de desenvolvimento e produção.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="20" height="20"/> Git & GitHub: Controle de versão e colaboração em projetos de desenvolvimento.
+
 
 
 Contato
 Email: mendespatrick720@gmail.com
 LinkedIn: Patrick Iago dos Santos Mendes
 Telefone: (51) 98057-8804
+
+
 Estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor, aplicando meu conhecimento em projetos práticos e dinâmicos. Se você está interessado em colaborar ou tem alguma oportunidade, sinta-se à vontade para entrar em contato.
