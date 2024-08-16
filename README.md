@@ -10,7 +10,6 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> Princípios SOLID: Desenvolvimento de código limpo e de fácil manutenção.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> SQL Server: Gerenciamento eficiente e seguro de bancos de dados.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> Entity Framework & Dapper: Otimização de interações com bancos de dados.
 
@@ -19,6 +18,8 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> Repository Pattern: Abstração de acesso a dados para garantir separação de responsabilidades.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> CQRS: Implementação de padrões de separação de responsabilidades em comandos e consultas.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> SQL Server: Gerenciamento eficiente e seguro de bancos de dados.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20" height="20"/> Docker: Containerização de aplicações para ambientes de desenvolvimento e produção.
 
