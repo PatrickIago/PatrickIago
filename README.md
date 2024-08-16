@@ -6,6 +6,8 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="20" height="20"/> .NET Core: Desenvolvimento de aplicações robustas e escaláveis.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="20" height="20"/> ASP.NET: Desenvolvimento de aplicações web modernas e seguras.
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/> Princípios SOLID: Desenvolvimento de código limpo e de fácil manutenção.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20"/> SQL Server: Gerenciamento eficiente e seguro de bancos de dados.
@@ -20,7 +22,6 @@ Sou um desenvolvedor em formação, especializado em tecnologias .NET e C#. Atua
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20" height="20"/> Docker: Containerização de aplicações para ambientes de desenvolvimento e produção.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="20" height="20"/> ASP.NET: Desenvolvimento de aplicações web modernas e seguras.
 
 
 Contato
