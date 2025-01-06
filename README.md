@@ -27,4 +27,3 @@ Sou um desenvolvedor em formação, especializado em **tecnologias .NET** e **C#
 
 ---
 
-![GitHub Followers](https://img.shields.io/github/followers/patrick-iago?style=social) ![GitHub Stars](https://img.shields.io/github/stars/patrick-iago?style=social)
