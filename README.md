@@ -1,6 +1,6 @@
 # 👨‍💻 Desenvolvedor .NET | Desenvolvedor C#
 
-## 🌱 Sobre mim
+## 🚀 Sobre mim
 
 Sou um desenvolvedor em formação, especializado em **tecnologias .NET** e **C#**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unilasalle** e complementando minha formação com diversos cursos online.
 
@@ -23,7 +23,10 @@ Sou um desenvolvedor em formação, especializado em **tecnologias .NET** e **C#
 - **LinkedIn**: [Patrick Iago dos Santos Mendes](https://www.linkedin.com/in/patrick-iago-dos-santos-mendes/)
 - **Telefone**: (51) 98057-8804
 
-## 🚀 Estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor, aplicando meu conhecimento em projetos práticos e dinâmicos. Se você está interessado em colaborar ou tem alguma oportunidade, sinta-se à vontade para entrar em contato.
+## 💡 Estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor, aplicando meu conhecimento em projetos práticos e dinâmicos. Se você está interessado em colaborar ou tem alguma oportunidade, sinta-se à vontade para entrar em contato.
 
 ---
+
+![GitHub Followers](https://img.shields.io/github/followers/patrick-iago?style=social) ![GitHub Stars](https://img.shields.io/github/stars/patrick-iago?style=social)
+
 
